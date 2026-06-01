@@ -1,4 +1,4 @@
-# @jenveek's Awakening Project 🌱
+# @huikong0406's Awakening Project 🌱
 
 > "The only way out is through."
 
@@ -41,4 +41,4 @@ I believe in the power of compounding effort. Every commit here represents a ste
 
 ---
 
-*Built with ❤️ by jenveek.*
+*Built with ❤️ by huikong.*
