@@ -1,4 +1,4 @@
-# @huikong0406's Awakening Project 🌱
+# @huikong's Awakening Project 🌱
 
 > "The only way out is through."
 
